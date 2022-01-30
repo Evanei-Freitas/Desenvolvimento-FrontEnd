@@ -1,0 +1,14 @@
+.btn{
+    padding: 5px 30px;
+    border-radius: 15px;
+}
+
+.btn.btn-laranja{
+    background: #ff6633;
+    color: #fff;
+}
+
+.btn.btn-verde{
+    background:#0B9B9B;
+    color: #fff;
+}
