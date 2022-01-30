@@ -4,7 +4,7 @@
 /* Components */
 @import './header.css';
 @import './butons.css';
-
+@import './main.css';
 
 /* Reset Css */
 *{
@@ -13,6 +13,7 @@
     border: 0;
     font-size: 100%;
     font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
     font: inherit;
     vertical-align: baseline;
     text-decoration: none;
@@ -20,7 +21,7 @@
 
 .container{
     width: 1024px;
-    margin: 30px auto;
+    margin: 20px auto;
     display: flexbox;
     flex-direction: column;
 }
