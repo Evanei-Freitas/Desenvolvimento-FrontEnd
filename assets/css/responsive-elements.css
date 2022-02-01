@@ -1,0 +1,53 @@
+
+@media(max-width:1668px){
+    .container{
+        width: 950px;
+    }
+}
+
+
+@media(max-width:1664px){
+    .container{
+        width: 768px;
+    }
+}
+
+
+@media(max-width:1556px){
+    .container{
+        width: 768px;
+    }
+}
+
+
+@media(max-width:1528px){
+    .container{
+        width: 860px;
+    }
+}
+
+
+@media(max-width:1024px){
+    .container{
+        width: 850px;
+    }
+
+    .sobre-web-designer figcaption img{
+        width: 500px;
+        
+    }
+}
+
+@media(max-width:915px){
+    .container{
+        width: 850px;
+    }
+
+   .row{
+       flex-direction: column;
+   }
+
+   header nav{
+       margin: 30px 0;
+   }
+}
