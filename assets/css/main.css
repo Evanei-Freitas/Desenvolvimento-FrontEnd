@@ -21,22 +21,22 @@
 }
 
 
+.sobre-web-designer article h2{
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    line-height: 100%;
+    margin: 10px;
+}
+
 .sobre-web-designer article p{
     margin: 10px 0 40px 0;
 }
 
-.sobre-web-designer article h2{
-    font-size: 30px;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    line-height: 200%;
- 
-}
-
 
 .sobre-web-designer figcaption img{
-    width: 700px;
-    height: 400px;
+    width: 600px;
+    /*height: 400px;*/
 }
 
 

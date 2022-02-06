@@ -7,15 +7,17 @@ header nav ul{
     display: flex;
     flex-direction: row;
     align-items: center;
-    
+   
 }
 
 header nav ul li a{
     margin: 0px 15px;
     color: #3399cc;
+   
 }
 
-
-
+header nav ul li a:hover{
+    border-bottom: 1px solid #3399cc;
+}
 
 
